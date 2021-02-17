@@ -1,0 +1,36 @@
+:root{
+    font-size: 18px;
+}
+body{
+    color: #212121;
+}
+
+a{
+    color: #212121;
+}
+
+header{
+    font-size: 14px;
+    color: #616161;
+}
+ 
+header.a {
+    color: #616161;
+    text-decoration: none;
+}
+header.a:hover{
+    color: #212121
+}
+
+nav details summary{
+    font-weight: bold;
+}
+
+h1{
+    font-size: 60px;
+    /*text-decoration: underline;*/
+}
+
+h2{
+    font-size: 2em;
+}
